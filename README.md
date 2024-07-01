@@ -24,12 +24,12 @@ In the pubspec.yaml of your flutter project, add the following dependency:
 ```
 dependencies:
   ...
-  custom_gridview: <latest_version>
+  responsive_gridview: <latest_version>
 ```
 
 In your library add the following import:
 
 ```
-import 'package:custom_gridview/custom_gridview.dart';
+import 'package:responsive_gridview/responsive_gridview.dart';
 ```
 
