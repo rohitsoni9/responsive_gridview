@@ -7,3 +7,7 @@
 ## 1.0.1
 
 * Updated Files
+
+## 1.0.3
+
+* Added Usage Example

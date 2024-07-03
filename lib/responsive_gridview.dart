@@ -1,4 +1,4 @@
-library custom_gridview;
+library responsive_gridview;
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';

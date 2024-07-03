@@ -33,3 +33,18 @@ In your library add the following import:
 import 'package:responsive_gridview/responsive_gridview.dart';
 ```
 
+```
+ResponsiveGridView(
+  column: 2, // 2 items per row, we can configure 1 to many
+  verticalSpacing: 20, // Vertical spacing between 2 items, default is 12
+  horizontalSpacing: 20, // Horizontal spacing between 2 items, default is 12
+  padding: const EdgeInsets.all(8), // Overall outer padding, default is 12
+  children: [
+    Text("Hello"),
+    Text("Flutter"),
+    Image.network("www.google.com/nj65372g"),
+    Text("Thank You!"),
+  ]
+)
+```
+
